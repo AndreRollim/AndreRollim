@@ -1,50 +1,202 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!+My+name+is+André+Saturnino+Rolim;I'm+Engineering+Software+student;Check+out+my+evolution+as+a+programmer+below.:%29)](https://git.io/typing-svg) 
+<!--
+  André Saturnino Rolim | README de Perfil
+  GitHub: https://github.com/AndreRollim
+-->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreRollim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Saturnino Rolim - Status do Github" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRollim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreRollim&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreRollim&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="./assets/andre-banner.png" alt="André Saturnino Rolim - Estudante de Engenharia de Software" width="100%">
 </p>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/andr%C3%A9-s-rolim-b8271b207/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<h1 align="center">André Saturnino Rolim</h1>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreRollim}/count.svg" /></p> 
-<br></div>
+<p align="center">
+  <strong>Estudante de Engenharia de Software • Desenvolvimento Web • Aprendizado Contínuo</strong>
+</p>
+
+<p align="center">
+  Transformando aprendizado em código, projetos e soluções.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AndreRollim">
+    <img src="https://img.shields.io/badge/GitHub-AndreRollim-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-s-rolim-b8271b207/">
+    <img src="https://img.shields.io/badge/LinkedIn-André%20S.%20Rolim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+👋 Olá!
+
+Sou André Saturnino Rolim, estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de aplicações.
+
+Atualmente, estou construindo minha base em JavaScript, HTML, CSS, React e Node.js, desenvolvendo projetos práticos para transformar conhecimento em soluções reais.
+
+Tenho interesse especialmente em desenvolvimento web, construção de interfaces, lógica de programação e desenvolvimento de aplicações completas.
+
+Meu objetivo é evoluir continuamente como desenvolvedor, aprender boas práticas e participar de projetos onde eu possa contribuir, aprender e gerar valor para a equipe.
+
+Aprender. Construir. Melhorar. Repetir.
+
+💻 Principais Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs" alt="JavaScript HTML CSS React Node.js">
+</p>
+
+Tecnologia
+
+Conhecimento / Foco
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+Lógica de programação e desenvolvimento de aplicações
 
+
+Estrutura semântica de páginas web
+
+
+Estilização, responsividade e construção de interfaces
+
+
+Desenvolvimento de interfaces com componentes
+
+
+Desenvolvimento de aplicações e APIs no ambiente JavaScript
+
+🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows" alt="VS Code Git GitHub Windows">
+</p>
+
+Visual Studio Code
+
+Git
+
+GitHub
+
+Figma
+
+Windows
+
+Microsoft Office
+
+📚 Outros conhecimentos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,mongodb" alt="Bootstrap Figma MongoDB">
+</p>
+
+Bootstrap
+
+Figma
+
+MongoDB
+
+Desenvolvimento Web Responsivo
+
+Controle de versão com Git
+
+Fundamentos de UI e construção de interfaces
+
+🌱 Próximos estudos
+
+Estou ampliando minha formação para avançar no desenvolvimento Full Stack e compreender melhor todo o ciclo de desenvolvimento de uma aplicação.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,mysql,aws" alt="TypeScript MySQL AWS">
+</p>
+
+
+TypeScript
+
+Escrever aplicações JavaScript mais seguras, organizadas e escaláveis
+
+SQL / MySQL
+
+Aprofundar conhecimentos em bancos de dados relacionais
+
+AWS
+
+Conhecer computação em nuvem, infraestrutura e publicação de aplicações
+
+🗺️ Minha jornada de desenvolvimento
+
+                    ┌───────────────┐
+                    │  JavaScript   │
+                    └───────┬───────┘
+                            │
+              ┌─────────────┴─────────────┐
+              ▼                           ▼
+         HTML + CSS                    React
+              │                           │
+              └─────────────┬─────────────┘
+                            ▼
+                         Node.js
+                            │
+                 ┌──────────┼──────────┐
+                 ▼          ▼          ▼
+             TypeScript   SQL/MySQL    AWS
+                 │          │          │
+                 └──────────┼──────────┘
+                            ▼
+                  Desenvolvimento
+                     Full Stack
+
+Meu foco é entender não apenas cada tecnologia individualmente, mas como elas se conectam para construir aplicações completas.
+
+🚀 Projetos
+
+Estou constantemente desenvolvendo projetos para colocar meus conhecimentos em prática.
+
+Em breve, esta seção terá meus principais projetos, com descrição, tecnologias utilizadas, funcionalidades e links para demonstração.
+
+<!--
+Exemplo para adicionar projetos futuramente:
+
+### 🛒 Nome do Projeto
+Descrição breve do projeto.
+
+**Tecnologias:** JavaScript • HTML • CSS • Node.js
+
+[🔗 Ver projeto](LINK) • [💻 Código](LINK)
+-->
+
+
+
+🎯 O que busco profissionalmente
+
+Estou em transição para a área de tecnologia e busco uma oportunidade onde eu possa:
+
+💻 Desenvolver soluções para problemas reais
+
+🚀 Transformar ideias em aplicações funcionais
+
+🤝 Trabalhar em equipe e aprender com outros desenvolvedores
+
+📚 Evoluir tecnicamente e profissionalmente
+
+🧩 Aplicar lógica e programação na resolução de problemas
+
+🌱 Construir uma carreira sólida em desenvolvimento de software
+
+Tenho grande interesse em oportunidades de Desenvolvimento Web, Front-end e Full Stack, especialmente em ambientes que valorizem aprendizado, colaboração e evolução profissional.
+
+📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://github.com/AndreRollim">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-s-rolim-b8271b207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <i>“Grandes resultados são construídos com progresso consistente.”</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
