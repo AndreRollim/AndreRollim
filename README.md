@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <p align="center">
-  <img src="./assets/Banner.png" alt="André Saturnino Rolim - Estudante de Engenharia de Software" width="100%">
+  <img src="./Banner.png" alt="André Saturnino Rolim - Estudante de Engenharia de Software" width="100%">
 </p>
 
 <h1 align="center">André Saturnino Rolim</h1>
